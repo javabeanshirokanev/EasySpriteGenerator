@@ -1,0 +1,6 @@
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\bin\Release\SpriteUnitor.exe.config
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\bin\Release\SpriteUnitor.exe
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\bin\Release\SpriteUnitor.pdb
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\obj\Release\SpriteUnitor.exe
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\obj\Release\SpriteUnitor.pdb
+c:\users\shirokanev\documents\visual studio 2015\Projects\SpriteUnitor\SpriteUnitor\obj\Release\SpriteUnitor.csprojResolveAssemblyReference.cache
